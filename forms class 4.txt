@@ -1,0 +1,41 @@
+Beginning Task: Write a program which convert Foot to Inch ( 12 inch = 1 foot) using function and print it.
+
+
+PHP Form:
+- Form structure 
+- Get Request
+- Passing value to get request and retrieve it.
+
+Task: Pass two values by get request and print their addition.
+
+POST Request
+- Why need post request.
+- Pass data and retrieve it.
+
+Task: pass username and password if match, show logged in.
+
+Validations with form:
+- Check required fileds
+- Check length
+
+Task: make a login form, Check all fields are filled and password is at least 6 length.
+
+
+Upload file via PHP.
+- how to upload a file.
+- File validation
+- delete a file
+
+Task: Take a file. Check if it is a JPG image. check size. If it is 1mb or less. then upload it.
+
+
+Upload files in Cpanel.
+Free hosting: 000webhost
+
+Version Control System Github intro.
+
+Homework: Make a simple calculator with two input fields which can operate +,-,*,/ and print them. Use functions to do this. You can make design if you want to and upload it cpanel.
+
+OOP concept can be given
+updated version of xampp
+
